@@ -1,0 +1,49 @@
+SALES ANALYTICS
+
+	Objective- The objective of the sales analysis project is to gain actionable insights and make informed business decisions based on the analysis of the sales data. The project aims to explore various aspects of the sales dataset, including customer demographics, order status, payment methods, discounts, and sales trends over time etc.
+
+
+
+	Flow of Project –
+	Importing the dataset on Kaggle.
+	Importing required libraries to perform operations on dataset.
+	Performing Cleaning, Augmenting, Feature engineering on data.
+	Visualizing the data and gain insights.
+
+	Library used-
+Pandas, Seaborn, Matplotlib
+
+	Overview of Dataset –
+ 
+ 
+	Cleaning –
+                 Augment the columns, performing feature engineering.
+
+	Analysis –
+	Questions to answer:
+1.	what was the best month for sales? how much was earned that month?            
+2.	How does the discount amount affect the sales? Is there any      correlation between the discount offered and the quantity of items ordered? etc. 
+
+
+
+
+
+
+ 
+
+
+
+	Insights –
+1. December has the highest sales in US, most probably because of holiday season in December.
+2. Majority of orders are cancelled as comparison to complete and received orders, this could be lead us to find the underlying issue or areas of improvement like engaging customer interaction, overall user experience and customer dissatisfaction.
+3.clearly mobile tablets has most sales followed by appliances.
+4.most of the payments are done by cash on delivery which is 35.9% followed by Pay axis.
+5.Here we can clearly see that by increasing discount amount there is negligible difference spot in quantity ordered while sales are increasing and fall into between 25k to 75k.
+6.mostlikely the age group of 61+ appears to be more in terms of purchasing, this is slightly odd and less is 20 age group, where we can improve our focus to increase purchasing by marketing, advertisement etc. let's see in terms of sales which age group has the highest sales etc.
+
+
+	Project link- Sales Analytics
+	Report  -
+
+
+
